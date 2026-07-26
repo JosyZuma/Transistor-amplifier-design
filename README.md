@@ -11,8 +11,14 @@ Circuit Schematics
 
 
 Assembly Breakdown (Without Parts / Bare Board)
-
+* *Unpopulated board layout and terminal block positioning.*
 <img width="3024" height="4032" alt="IMG_1904" src="https://github.com/user-attachments/assets/6fe88316-1868-4857-943c-2e9a35f283bc" />
 
 <img width="3024" height="4032" alt="IMG_1905" src="https://github.com/user-attachments/assets/227dee0a-672a-45cc-857e-373a71c2215d" />
 
+
+Full Hardware Build
+* *Custom 3D printed components and housing integration.*
+<img width="3024" height="4032" alt="IMG_1899" src="https://github.com/user-attachments/assets/2d74107e-1bd6-4f2b-b0ce-a84c73c04234" />
+
+<img width="3024" height="4032" alt="IMG_1900" src="https://github.com/user-attachments/assets/f6f6ccf8-5092-4c9f-ba48-91546f896275" />
