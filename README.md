@@ -15,26 +15,26 @@ Initial CAD schematic design and wiring layout
 
 2.PCB Layout & Design Workflow
 
-Creating Board Edge
+2.1 Creating Board Edge
 
 Defining the physical dimensions and boundaries of the printed circuit board layout in CAD.
 
 <img width="315" height="312" alt="Screenshot 2026-07-26 222424" src="https://github.com/user-attachments/assets/eef1ff52-a5aa-4519-ad7f-6fc5b1a8d466" />
 
 
-Placing Copper Traces
+2.2 Placing Copper Traces
 
 Routing the electrical connections between components (resistors R1–R7, capacitors C1–C3, and transistor Q1) ensuring proper clearance and signal flow.
 
 <img width="324" height="313" alt="Screenshot 2026-07-26 222953" src="https://github.com/user-attachments/assets/2e0003aa-15e2-43e2-9dd7-4632a35a2353" />
 
-Adding Silkscreen
+2.3 Adding Silkscreen
 
 Integrating component designators, terminal polarities, project title, and institution branding onto the top silkscreen layer.
 
 <img width="316" height="320" alt="Screenshot 2026-07-26 223342" src="https://github.com/user-attachments/assets/6154a29c-10df-46fe-a39f-35f3ce2350ca" />
 
-3D Visualiser
+2.4 3D Visualiser
 
 Previewing the final assembled form factor and board layout using the 3D rendering tool prior to fabrication.
 <img width="333" height="334" alt="Screenshot 2026-07-26 224043" src="https://github.com/user-attachments/assets/f06e58d6-9d0e-4042-8f42-8eb2bd0ec1a9" />
@@ -42,7 +42,7 @@ Previewing the final assembled form factor and board layout using the 3D renderi
 <img width="342" height="336" alt="Screenshot 2026-07-26 224031" src="https://github.com/user-attachments/assets/584b0203-cbce-4e26-bda7-6101a7c67ff5" />
 
 
-2.Assembly Breakdown (Without Parts / Bare Board)
+3.Assembly Breakdown (Without Parts / Bare Board)
 
 Unpopulated board layout and terminal block positioning
 <img width="3024" height="4032" alt="IMG_1904" src="https://github.com/user-attachments/assets/6fe88316-1868-4857-943c-2e9a35f283bc" />
@@ -50,14 +50,14 @@ Unpopulated board layout and terminal block positioning
 <img width="3024" height="4032" alt="IMG_1905" src="https://github.com/user-attachments/assets/227dee0a-672a-45cc-857e-373a71c2215d" />
 
 
-3.Full Hardware Build
+4.Full Hardware Build
 
 Custom 3D printed components and housing integration
 <img width="3024" height="4032" alt="IMG_1899" src="https://github.com/user-attachments/assets/2d74107e-1bd6-4f2b-b0ce-a84c73c04234" />
 
 <img width="3024" height="4032" alt="IMG_1900" src="https://github.com/user-attachments/assets/f6f6ccf8-5092-4c9f-ba48-91546f896275" />
 
-4.Assembly & Soldering
+5.Assembly & Soldering
 
 Underside view of the soldered PCB layout, showing component pin connections, trace routing, and manual assembly
 <img width="3024" height="4032" alt="IMG_1902" src="https://github.com/user-attachments/assets/97802215-038d-4fe8-ab4d-d761ad8f9f25" />
@@ -65,7 +65,7 @@ Underside view of the soldered PCB layout, showing component pin connections, tr
 <img width="3024" height="4032" alt="IMG_1903" src="https://github.com/user-attachments/assets/0872427c-de43-4194-a1b1-4a9275cfee5c" />
 
 
-5.Bill of Materials (BOM)
+6.Bill of Materials (BOM)
 
 Complete parts list detailing component references, quantities, and specific values used in the circuit assembly
 
