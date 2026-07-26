@@ -13,6 +13,31 @@ Initial CAD schematic design and wiring layout
 
 <img width="421" height="271" alt="analog waveform" src="https://github.com/user-attachments/assets/9fc1d7fa-6a86-4bc7-b4f3-19d6f3e8b94c" />
 
+2.PCB Layout & Design Workflow
+
+Creating Board Edge
+
+Defining the physical dimensions and boundaries of the printed circuit board layout in CAD.
+
+<img width="315" height="312" alt="Screenshot 2026-07-26 222424" src="https://github.com/user-attachments/assets/eef1ff52-a5aa-4519-ad7f-6fc5b1a8d466" />
+
+
+Placing Copper Traces
+
+Routing the electrical connections between components (resistors R1–R7, capacitors C1–C3, and transistor Q1) ensuring proper clearance and signal flow.
+<img width="324" height="313" alt="Screenshot 2026-07-26 222953" src="https://github.com/user-attachments/assets/2e0003aa-15e2-43e2-9dd7-4632a35a2353" />
+
+Adding Silkscreen
+
+Integrating component designators, terminal polarities, project title, and institution branding onto the top silkscreen layer.
+<img width="316" height="320" alt="Screenshot 2026-07-26 223342" src="https://github.com/user-attachments/assets/6154a29c-10df-46fe-a39f-35f3ce2350ca" />
+
+3D Visualiser
+
+Previewing the final assembled form factor and board layout using the 3D rendering tool prior to fabrication.
+<img width="333" height="334" alt="Screenshot 2026-07-26 224043" src="https://github.com/user-attachments/assets/f06e58d6-9d0e-4042-8f42-8eb2bd0ec1a9" />
+
+<img width="342" height="336" alt="Screenshot 2026-07-26 224031" src="https://github.com/user-attachments/assets/584b0203-cbce-4e26-bda7-6101a7c67ff5" />
 
 
 2.Assembly Breakdown (Without Parts / Bare Board)
