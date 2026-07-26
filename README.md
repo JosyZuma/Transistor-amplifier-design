@@ -3,7 +3,7 @@ Single-stage common-emitter transistor amplifier circuit design, transient simul
 
 Design and Build Process
 
-1.Circuit Schematics and Waveform 
+1.Circuit Schematics
 
 Initial CAD schematic design and wiring layout
 
