@@ -7,6 +7,7 @@ Circuit Schematics
 * *Initial CAD schematic design and wiring layout.*
 <img width="600" height="430" alt="Screenshot 2026-07-26 202551" src="https://github.com/user-attachments/assets/a3e56471-73bf-4a25-8575-b36e7da7bee0" />
 
+
 <img width="596" height="426" alt="Screenshot 2026-07-26 202613" src="https://github.com/user-attachments/assets/5638a40b-c1d3-4dfe-bab1-72b2e1398faf" />
 
 
@@ -14,11 +15,13 @@ Assembly Breakdown (Without Parts / Bare Board)
 * *Unpopulated board layout and terminal block positioning.*
 <img width="3024" height="4032" alt="IMG_1904" src="https://github.com/user-attachments/assets/6fe88316-1868-4857-943c-2e9a35f283bc" />
 
+
 <img width="3024" height="4032" alt="IMG_1905" src="https://github.com/user-attachments/assets/227dee0a-672a-45cc-857e-373a71c2215d" />
 
 
 Full Hardware Build
 * *Custom 3D printed components and housing integration.*
 <img width="3024" height="4032" alt="IMG_1899" src="https://github.com/user-attachments/assets/2d74107e-1bd6-4f2b-b0ce-a84c73c04234" />
+
 
 <img width="3024" height="4032" alt="IMG_1900" src="https://github.com/user-attachments/assets/f6f6ccf8-5092-4c9f-ba48-91546f896275" />
