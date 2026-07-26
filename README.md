@@ -45,7 +45,8 @@ Previewing the final assembled form factor and board layout using the 3D renderi
 3.Assembly Breakdown (Without Parts / Bare Board)
 
 Unpopulated board layout and terminal block positioning
-<img width="3024" height="2339" alt="IMG_1899" src="https://github.com/user-attachments/assets/a9eb0e9c-1ccf-4ac0-87fc-954250ebf541" />
+<img width="3024" height="4032" alt="IMG_1904" src="https://github.com/user-attachments/assets/3d6dd3e3-88cd-46ef-aece-1c119da44b4a" />
+
 
 
 <img width="3024" height="4032" alt="IMG_1905" src="https://github.com/user-attachments/assets/227dee0a-672a-45cc-857e-373a71c2215d" />
@@ -54,7 +55,8 @@ Unpopulated board layout and terminal block positioning
 4.Full Hardware Build
 
 Custom 3D printed components and housing integration
-<img width="3024" height="4032" alt="IMG_1899" src="https://github.com/user-attachments/assets/2d74107e-1bd6-4f2b-b0ce-a84c73c04234" />
+<img width="3024" height="2339" alt="IMG_1899" src="https://github.com/user-attachments/assets/740b688b-cf37-49c1-9163-b245c25d6021" />
+
 
 <img width="3024" height="4032" alt="IMG_1900" src="https://github.com/user-attachments/assets/f6f6ccf8-5092-4c9f-ba48-91546f896275" />
 
