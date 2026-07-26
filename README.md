@@ -45,7 +45,8 @@ Previewing the final assembled form factor and board layout using the 3D renderi
 3.Assembly Breakdown (Without Parts / Bare Board)
 
 Unpopulated board layout and terminal block positioning
-<img width="3024" height="4032" alt="IMG_1904" src="https://github.com/user-attachments/assets/6fe88316-1868-4857-943c-2e9a35f283bc" />
+<img width="3024" height="2339" alt="IMG_1899" src="https://github.com/user-attachments/assets/a9eb0e9c-1ccf-4ac0-87fc-954250ebf541" />
+
 
 <img width="3024" height="4032" alt="IMG_1905" src="https://github.com/user-attachments/assets/227dee0a-672a-45cc-857e-373a71c2215d" />
 
