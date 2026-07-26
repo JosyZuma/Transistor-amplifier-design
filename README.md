@@ -3,13 +3,16 @@ Single-stage common-emitter transistor amplifier circuit design, transient simul
 
 Design and Build Process
 
-1.Circuit Schematics 
+1.Circuit Schematics and Waveform 
 
 Initial CAD schematic design and wiring layout
 
 <img width="600" height="430" alt="Screenshot 2026-07-26 202551" src="https://github.com/user-attachments/assets/a3e56471-73bf-4a25-8575-b36e7da7bee0" />
 
 <img width="596" height="426" alt="Screenshot 2026-07-26 202613" src="https://github.com/user-attachments/assets/5638a40b-c1d3-4dfe-bab1-72b2e1398faf" />
+
+<img width="421" height="271" alt="analog waveform" src="https://github.com/user-attachments/assets/9fc1d7fa-6a86-4bc7-b4f3-19d6f3e8b94c" />
+
 
 
 2.Assembly Breakdown (Without Parts / Bare Board)
