@@ -63,7 +63,7 @@ Custom 3D printed components and housing integration
 5.Assembly & Soldering
 
 Underside view of the soldered PCB layout, showing component pin connections, trace routing, and manual assembly
-<img width="3024" height="4032" alt="IMG_1902" src="https://github.com/user-attachments/assets/97802215-038d-4fe8-ab4d-d761ad8f9f25" />
+<img width="3024" height="3736" alt="IMG_1902" src="https://github.com/user-attachments/assets/8d4e5fbc-0bfe-4419-bfbd-78fef60d0406" />
 
 <img width="3024" height="4032" alt="IMG_1903" src="https://github.com/user-attachments/assets/0872427c-de43-4194-a1b1-4a9275cfee5c" />
 
