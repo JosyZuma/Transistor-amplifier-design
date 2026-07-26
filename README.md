@@ -2,6 +2,7 @@
 Single-stage common-emitter transistor amplifier circuit design, transient simulation analysis, and CAD schematic documentation.
 
 Design and Build Process
+
 Circuit Schematics 
 <img width="596" height="426" alt="Screenshot 2026-07-26 202613" src="https://github.com/user-attachments/assets/5638a40b-c1d3-4dfe-bab1-72b2e1398faf" />
 
