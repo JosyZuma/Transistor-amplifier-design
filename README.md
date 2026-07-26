@@ -4,7 +4,7 @@ Single-stage common-emitter transistor amplifier circuit design, transient simul
 Design and Build Process
 
 1.Circuit Schematics 
-* *Initial CAD schematic design and wiring layout.*
+Initial CAD schematic design and wiring layout.*
 <img width="600" height="430" alt="Screenshot 2026-07-26 202551" src="https://github.com/user-attachments/assets/a3e56471-73bf-4a25-8575-b36e7da7bee0" />
 
 <img width="596" height="426" alt="Screenshot 2026-07-26 202613" src="https://github.com/user-attachments/assets/5638a40b-c1d3-4dfe-bab1-72b2e1398faf" />
@@ -18,7 +18,7 @@ Design and Build Process
 
 
 3.Full Hardware Build
-* *Custom 3D printed components and housing integration.*
+Custom 3D printed components and housing integration.*
 <img width="3024" height="4032" alt="IMG_1899" src="https://github.com/user-attachments/assets/2d74107e-1bd6-4f2b-b0ce-a84c73c04234" />
 
 <img width="3024" height="4032" alt="IMG_1900" src="https://github.com/user-attachments/assets/f6f6ccf8-5092-4c9f-ba48-91546f896275" />
@@ -31,6 +31,6 @@ Design and Build Process
 
 
 Bill of Materials (BOM)
-* *Complete parts list detailing component references, quantities, and specific values used in the circuit assembly.*
+Complete parts list detailing component references, quantities, and specific values used in the circuit assembly.*
 <img width="888" height="796" alt="Screenshot 2026-07-26 204846" src="https://github.com/user-attachments/assets/07748da0-73e6-4099-881f-97c06eb14319" />
 
