@@ -76,4 +76,5 @@ Underside view of the soldered PCB layout, showing component pin connections, tr
 7.Bill of Materials (BOM)
 
 Complete parts list detailing component references, quantities, and specific values used in the circuit assembly
-
+<img width="938" height="726" alt="Screenshot 2026-07-27 000756" src="https://github.com/user-attachments/assets/f47879e5-c639-455b-a9be-6abd7f3f0e70" />
+Note: These parts were not individually purchased for this project, as they were supplied as part of college laboratory stock for this academic assignment.
