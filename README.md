@@ -1,5 +1,5 @@
 # Transistor-amplifier-design
-Single-stage common-emitter transistor amplifier circuit design, transient simulation analysis, and CAD schematic documentation.
+Single-stage common-emitter transistor amplifier circuit design, transient simulation analysis, PCB layout, and BOM documentation.
 
 Design and Build Process
 
