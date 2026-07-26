@@ -29,13 +29,13 @@ Defining the physical dimensions and boundaries of the printed circuit board lay
 
 3.2 Placing Copper Traces
 
-Routing the electrical connections between components (resistors R1–R7, capacitors C1–C3, and transistor Q1) ensuring proper clearance and signal flow.
+Routing the electrical connections between components (resistors R1–R7, capacitors C1–C3 and transistor Q1) ensuring proper clearance and signal flow.
 
 <img width="324" height="313" alt="Screenshot 2026-07-26 222953" src="https://github.com/user-attachments/assets/2e0003aa-15e2-43e2-9dd7-4632a35a2353" />
 
 3.3 Adding Silkscreen
 
-Integrating component designators, terminal polarities, project title, and institution branding onto the top silkscreen layer.
+Integrating component designators, terminal polarities, project title and institution branding onto the top silkscreen layer.
 
 <img width="316" height="320" alt="Screenshot 2026-07-26 223342" src="https://github.com/user-attachments/assets/6154a29c-10df-46fe-a39f-35f3ce2350ca" />
 
@@ -67,7 +67,7 @@ Custom 3D printed components and housing integration
 
 6.Assembly & Soldering
 
-Underside view of the soldered PCB layout, showing component pin connections, trace routing, and manual assembly
+Underside view of the soldered PCB layout, showing component pin connections, trace routing and manual assembly
 <img width="3024" height="3736" alt="IMG_1902" src="https://github.com/user-attachments/assets/8d4e5fbc-0bfe-4419-bfbd-78fef60d0406" />
 
 <img width="3024" height="4032" alt="IMG_1903" src="https://github.com/user-attachments/assets/0872427c-de43-4194-a1b1-4a9275cfee5c" />
@@ -75,7 +75,7 @@ Underside view of the soldered PCB layout, showing component pin connections, tr
 
 7.Bill of Materials (BOM)
 
-Complete parts list detailing component references, quantities, and specific values used in the circuit assembly
+Complete parts list detailing component references, quantities and specific values used in the circuit assembly
 <img width="938" height="726" alt="Screenshot 2026-07-27 000756" src="https://github.com/user-attachments/assets/2eae4c77-5195-4744-aaa2-dfdd4e30938f" />
 
 Note: These parts were not individually purchased for this project, as they were supplied as part of college laboratory stock for this academic assignment.
