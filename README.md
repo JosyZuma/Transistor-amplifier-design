@@ -1,3 +1,5 @@
-<img width="888" height="796" alt="Screenshot 2026-07-26 204846" src="https://github.com/user-attachments/assets/e1ccb8e8-5da5-4835-b86d-a6565e9a839a" />
+<img width="596" height="426" alt="Screenshot 2026-07-26 202613" src="https://github.com/user-attachments/assets/5638a40b-c1d3-4dfe-bab1-72b2e1398faf" />
+<img width="600" height="430" alt="Screenshot 2026-07-26 202551" src="https://github.com/user-attachments/assets/a3e56471-73bf-4a25-8575-b36e7da7bee0" />
+
 # Transistor-amplifier-design
 Single-stage common-emitter transistor amplifier circuit design, transient simulation analysis, and CAD schematic documentation.
