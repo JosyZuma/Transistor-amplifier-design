@@ -25,11 +25,13 @@ Defining the physical dimensions and boundaries of the printed circuit board lay
 Placing Copper Traces
 
 Routing the electrical connections between components (resistors R1–R7, capacitors C1–C3, and transistor Q1) ensuring proper clearance and signal flow.
+
 <img width="324" height="313" alt="Screenshot 2026-07-26 222953" src="https://github.com/user-attachments/assets/2e0003aa-15e2-43e2-9dd7-4632a35a2353" />
 
 Adding Silkscreen
 
 Integrating component designators, terminal polarities, project title, and institution branding onto the top silkscreen layer.
+
 <img width="316" height="320" alt="Screenshot 2026-07-26 223342" src="https://github.com/user-attachments/assets/6154a29c-10df-46fe-a39f-35f3ce2350ca" />
 
 3D Visualiser
