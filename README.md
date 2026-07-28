@@ -1,5 +1,33 @@
-# Transistor-amplifier-design
-Single-stage common-emitter transistor amplifier circuit design, transient simulation analysis, PCB layout and BOM documentation.
+Single-Stage Transistor Amplifier (Common-Emitter, BC337)
+
+A common-emitter amplifier built and simulated in Proteus, using a BC337 NPN transistor with a resistive voltage-divider bias network and capacitive input/output coupling.
+
+Circuit values
+Transistor: BC337 (NPN)
+Supply: Vcc = 30V
+Bias network: R2 = 50kΩ (Vcc→base), R3 = 50kΩ (base→ground)
+Collector: R4 = 1.2kΩ
+Emitter: R5 = 51Ω, R6 = 1.2kΩ
+Coupling: C1 = 100nF (input), C3 = 1µF (output), C2 = 100nF (emitter bypass)
+R7 = 10MΩ on the output — a DC bias/pull-down after C3, not a real load
+Expected gain
+
+Av ≈ −R4 / R5 = −1200 / 51 ≈ −23.5
+
+The output should be ~23x the input amplitude and inverted.
+
+What the simulation actually shows
+
+The scope capture shows the opposite of what's expected: the output trace is smaller than the input, not larger. Working through the DC bias point explains why:
+
+Base voltage: Vb ≈ Vcc × R3/(R2+R3) = 30 × 50k/100k ≈ 15V
+Emitter voltage: Ve ≈ Vb − 0.7V ≈ 14.3V
+Emitter current: Ie ≈ Ve / (R5+R6) ≈ 14.3V / 1.25kΩ ≈ 11.4mA
+Collector voltage: Vc ≈ Vcc − Ic·R4 ≈ 30 − 13.7 ≈ 16.3V
+Vce ≈ Vc − Ve ≈ 2V
+
+With Vcc = 30V, Vce should sit near 15V (Vcc/2) for maximum symmetric swing. At ~2V, the transistor is biased almost into saturation, leaving no headroom for the collector voltage to swing — so the stage clips instead of amplifying cleanly. That's the cause of the squashed output on the scope.
+
 
 Design and Build Process
 
